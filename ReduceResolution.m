@@ -1,5 +1,5 @@
 obj = VideoReader('vvvv.mp4');%original video
-numFrames = obj.NumberOfFrames;% the total amount of frame
+numFrames = obj.NumberOfFrames;% the total amount of frame 
 
 %video zipped
 newPath = obj.Path;
